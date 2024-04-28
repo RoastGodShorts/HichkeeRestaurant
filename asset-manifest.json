@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/HichkeeRestaurant/static/css/main.8d80b57d.css",
-    "main.js": "/HichkeeRestaurant/static/js/main.d6ad458c.js",
+    "main.js": "/HichkeeRestaurant/static/js/main.c703af7c.js",
     "static/media/copy6.jpg": "/HichkeeRestaurant/static/media/copy6.98500714c160f4437f43.jpg",
     "static/media/copy5.jpg": "/HichkeeRestaurant/static/media/copy5.ac9fd6dce573bbc2d61d.jpg",
     "static/media/Meal.jpg": "/HichkeeRestaurant/static/media/Meal.7a9cb78d0656394cdac6.jpg",
@@ -12,10 +12,10 @@
     "static/media/RAJ.jpeg": "/HichkeeRestaurant/static/media/RAJ.974ee3686637896c1108.jpeg",
     "index.html": "/HichkeeRestaurant/index.html",
     "main.8d80b57d.css.map": "/HichkeeRestaurant/static/css/main.8d80b57d.css.map",
-    "main.d6ad458c.js.map": "/HichkeeRestaurant/static/js/main.d6ad458c.js.map"
+    "main.c703af7c.js.map": "/HichkeeRestaurant/static/js/main.c703af7c.js.map"
   },
   "entrypoints": [
     "static/css/main.8d80b57d.css",
-    "static/js/main.d6ad458c.js"
+    "static/js/main.c703af7c.js"
   ]
 }
